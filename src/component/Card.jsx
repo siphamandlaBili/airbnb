@@ -1,5 +1,5 @@
 import "../Card.css";
-import { Card,Stack, CardHeader, CardBody,Divider,ButtonGroup,Image, CardFooter,Heading,Button,SimpleGrid,Text } from '@chakra-ui/react'
+import { Card,Stack,Image,Heading,Text } from '@chakra-ui/react'
 
 const CardDisplay = ({ src, title, description, price }) => {
   return (

@@ -5,8 +5,8 @@ import { MdExpandMore } from "react-icons/md";
 import { Avatar, WrapItem, Wrap, AvatarBadge, AvatarGroup } from '@chakra-ui/react';
 import "../header.css"
 
-
 const Navbar = () => {
+   
     return <div className="header">
         <Logo />
         <div className="header-center">
@@ -14,7 +14,7 @@ const Navbar = () => {
             <FaSearch className="search" />
         </div>
         <div className="header-right">
-            <p>Become a host</p>
+            <p>login</p>
             <GrLanguage className="language" />
             <MdExpandMore className="expand" />
             <Wrap style={{cursor:"pointer"}}>

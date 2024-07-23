@@ -1,9 +1,10 @@
 import { useState } from "react";
 import "../assets/banner.css"
-import { Button, Stack } from '@chakra-ui/react'
+import { Button, position, Stack } from '@chakra-ui/react'
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 import Search from "./Search";
+import Login from "./Login";
 
 const Banner = () => {
     const [showSearch, setShowSearch] = useState(false);

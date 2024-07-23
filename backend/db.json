@@ -136,17 +136,36 @@
       "userId": "1"
     }
   ],
-  "listing": [
+  "listing":[
     {
-      "id": "1",
-      "bath_number": "3",
-      "bed_number": "3",
-      "zip": "7140",
-      "adress": "20068",
-      "city": "strand",
-      "street": "edward str",
-      "price": "600",
-      "userId": "4"
+      "src": "https://media.cntraveler.com/photos/589df60a9b67416638b3bf66/master/w_1200,c_limit/luxury-retreats-cr-courtesy.jpg?mbid=social_retweet",
+      "title": "Modern Apartment",
+      "description": "A modern apartment in the city center with 2 bedrooms and 2 bathrooms.",
+      "price": 1200
+    },
+    {
+      "src": "https://th.bing.com/th/id/OIP.kpA3q6Y1Xz-FnQv2D3lzCgHaE8?rs=1&pid=ImgDetMain",
+      "title": "Cozy Cottage",
+      "description": "A cozy cottage in the countryside, perfect for a weekend getaway.",
+      "price": 800
+    },
+    {
+      "src": "https://www.dreamystays.com/wp-content/uploads/2017/11/airbnb-kauai-anahola-ultra-luxury.jpg",
+      "title": "Luxury Villa",
+      "description": "A luxury villa with a private pool and stunning sea views.",
+      "price": 5000
+    },
+    {
+      "src": "https://www.dreamystays.com/wp-content/uploads/2020/07/9c7d2253-ce5a-4777-9ee7-89c7bddf92e3.jpg",
+      "title": "Studio Apartment",
+      "description": "A compact studio apartment, ideal for singles or couples.",
+      "price": 600
+    },
+    {
+      "src": "https://th.bing.com/th/id/OIP.7awh0xcXpJW4znZ-AenO_AHaEX?rs=1&pid=ImgDetMain",
+      "title": "Beach House",
+      "description": "A beautiful beach house with direct access to the beach.",
+      "price": 3500
     }
   ]
 }
